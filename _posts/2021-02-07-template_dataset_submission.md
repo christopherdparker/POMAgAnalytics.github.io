@@ -10,6 +10,8 @@ tags: [template]
 
 # How to change the metadata
 
+I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+
 Edit the metadata above here. Be sure to change the title at tags at the very least. You can then delete this section.
 
 Edit the post link by changing the name. Be sure to include the date at the front of the link. For example, 2021-02-07-template_dataset_submission.md
