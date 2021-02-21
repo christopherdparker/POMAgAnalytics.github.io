@@ -10,7 +10,7 @@ Adding a dataset is simple.
 [Login in your GitHub account](https://github.com/join) or [create an account](https://github.com/join) if you don't already have one.
 
 # Create a file that provides post information
-Navigate to the _posts folder. Click on Add file > Create new file.
+Navigate to the [_posts folder](https://github.com/POMAgAnalytics/POMAgAnalytics.github.io/tree/main/_posts) for the GitHub repo that holds the code for this website. Click on Add file > Create new file.
 
 # Edit the information in the file
 Click this [link to the template](https://raw.githubusercontent.com/POMAgAnalytics/POMAgAnalytics.github.io/main/data_submission_template.md) for a new dataset post. What you will see is raw markdown. Copy everything and then paste the information in the new file you just created in the _posts folder. That text also includes instructions you'll need to maintain formatting.
