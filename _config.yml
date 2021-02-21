@@ -13,11 +13,11 @@ author: Operations Management Community
 
 # --- List of links in the navigation bar --- #
 
-#navbar-links:
-#  About Me: "aboutme"
-#  Resources:
-#    - Beautiful Jekyll: "https://beautifuljekyll.com"
-#    - Learn markdown: "https://www.markdowntutorial.com/"
+navbar-links:
+ Submit a Dataset: "contribute"
+ Resources:
+   - Beautiful Jekyll: "https://beautifuljekyll.com"
+   - Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
