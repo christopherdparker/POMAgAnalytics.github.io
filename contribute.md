@@ -13,7 +13,7 @@ Adding a dataset is simple.
 Navigate to the [source code for this website](https://github.com/POMAgAnalytics/POMAgAnalytics.github.io). Click on the dropdown indicating you are on the Main branch. Enter a name for your branch and click create branch. This will create a new branch and you will then see 
 
 # Create a file that provides post information
-The file called [dd][https://raw.githubusercontent.com/POMAgAnalytics/POMAgAnalytics.github.io/examplebranch/data_submission_template.md]
+The file called [dd](https://raw.githubusercontent.com/POMAgAnalytics/POMAgAnalytics.github.io/examplebranch/data_submission_template.md)
 
 <a id="raw-url" href="https://raw.githubusercontent.com/POMAgAnalytics/POMAgAnalytics.github.io/examplebranch/data_submission_template.md">Download FILE</a>
 
