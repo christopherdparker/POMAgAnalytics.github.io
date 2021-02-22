@@ -4,7 +4,7 @@ title: Contribute
 subtitle: Steps for adding a dataset
 ---
 
-Adding a dataset is simple.
+We have tried to simplify the process for submitting a dataset. If you are new to Git this may be a bit overwhelming, but the steps below should walk you through it.
 
 # Login to your GitHub account
 [Login in your GitHub account](https://github.com/join) or [create an account](https://github.com/join) if you don't already have one.
